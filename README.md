@@ -29,11 +29,11 @@ Amazon S3 (Simple Storage Service) provides object storage for files (images, vi
 ## Screenshots
 
 ### S3:
-![S3_screenshot](S3_screenshot.png)
+![S3_screenshot](screenshots/S3_screenshot.png)
 
 ### IAM Role:
-![IAM Role_screenshot](IAMRole_sceenshot.png)
+![IAM Role_screenshot](screenshots/IAMRole_sceenshot.png)
 
 ### CloudWatch:
-![CloudWatch_screenshot](CloudWatch_screenshot.png)
+![CloudWatch_screenshot](screenshots/CloudWatch_screenshot.png)
 
